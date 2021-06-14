@@ -6,4 +6,13 @@
 
 #include "Rect.h"
 
+#ifdef __cplusplus
+extern "C" {
+#endif 
+
+
+#ifdef __cplusplus
+}
+#endif
+
 #endif /* MAIN_H__ */

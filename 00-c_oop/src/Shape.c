@@ -3,6 +3,7 @@
 #include <string.h>
 #include <assert.h>
 
+////< ShapeArea与ShapeDraw为Shape类的虚函数
 static uint32_t ShapeArea(Shape const * const c_this) {
   assert(0);
   return 0;
