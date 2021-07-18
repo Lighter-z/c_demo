@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "lru_cache.h": "c"
+    }
+}
